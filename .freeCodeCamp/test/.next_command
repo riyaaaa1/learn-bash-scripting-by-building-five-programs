@@ -143,3 +143,5 @@ help test
 help [[ expression ]]
 [[ -x countdown.sh && 5 -le 4 ]]
 [[ -x countdown.sh && 5 -le 4 ]]
+__vsc_prompt_cmd_original
+[[ -x countdown.sh || 5 -le 4 ]]
