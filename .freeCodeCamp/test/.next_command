@@ -74,3 +74,4 @@ which bash
 which bash
 sh questionnaire.sh
 touch questionnaire.sh
+./questionnaire.sh
