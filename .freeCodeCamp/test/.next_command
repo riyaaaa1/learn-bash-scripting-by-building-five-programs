@@ -75,3 +75,4 @@ which bash
 sh questionnaire.sh
 touch questionnaire.sh
 ./questionnaire.sh
+ls --color=auto -l
