@@ -148,3 +148,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh
 ./countdown.sh 1
 ./countdown.sh -1
+help
