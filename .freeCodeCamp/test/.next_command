@@ -119,3 +119,9 @@ help test
 ./countdown.sh
 ./countdown.sh 5
 [[ 4 -le 5 ]]
+echo $? [[ 4 -le 5 ]]
+echo $?
+[[ 4 -le 5 ]]
+exho $?
+[[ 4 -le 5 ]]
+echo $?
