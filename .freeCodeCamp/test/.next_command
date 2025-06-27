@@ -172,3 +172,4 @@ chmod +x bingo.sh
 printenv
 echo LANG
 echo $LANG
+declare -p
