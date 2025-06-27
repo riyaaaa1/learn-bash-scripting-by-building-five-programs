@@ -156,3 +156,6 @@ ls --color=auto /
 ls --color=auto /bin
 man sleep
 __vsc_prompt_cmd_original
+man sleep
+__vsc_prompt_cmd_original
+sleep 3
