@@ -183,3 +183,4 @@ ECHO $I
 I=0
 echo$I
 echo $I
+(( I++ ))
