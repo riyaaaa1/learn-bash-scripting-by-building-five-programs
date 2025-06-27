@@ -118,3 +118,4 @@ help test
 ./coundown.sh
 ./countdown.sh
 ./countdown.sh 5
+[[ 4 -le 5 ]]
