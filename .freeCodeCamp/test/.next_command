@@ -152,3 +152,4 @@ help
 ./countdown.sh
 ./countdown.sh 10
 help
+ls --color=auto /
