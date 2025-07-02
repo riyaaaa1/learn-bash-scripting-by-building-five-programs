@@ -398,3 +398,4 @@ echo $@
 echo $*
 echo ${ARR[0]}
 echo ${ARR[*]}
+declare -p ARR
