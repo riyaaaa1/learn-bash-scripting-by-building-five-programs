@@ -343,3 +343,5 @@ echo J
 echo $J
 J = 5
 echo $(( J*5+25 ))
+ECHO $j
+echo $J
