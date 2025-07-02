@@ -7,5 +7,5 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again late
 
 N=$(( RANDOM % 6 ))
 
-echo ${RESPONSES[5]}
+echo ${RESPONSES[$N]}
 
