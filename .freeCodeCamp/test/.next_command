@@ -349,3 +349,8 @@ declare -p
 declaere -p J
 declare -p J
 declare -p RANDOM
+echo RANDOM%75
+echo RANDOM % 75
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+echo $((RANDOM % 75 ))
