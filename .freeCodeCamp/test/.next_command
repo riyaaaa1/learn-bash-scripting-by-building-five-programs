@@ -346,3 +346,5 @@ echo $(( J*5+25 ))
 ECHO $j
 echo $J
 declare -p
+declaere -p J
+declare -p J
