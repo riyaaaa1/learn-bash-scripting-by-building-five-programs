@@ -338,3 +338,6 @@ J = $((I-6))
 J = $((I- 6))
 J = $((I - 6))
 J=$(( I - 6 ))
+ECHO j
+echo J
+echo $J
