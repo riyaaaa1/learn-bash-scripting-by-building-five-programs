@@ -412,3 +412,4 @@ help unti
 help until
 ./
 ./fortune.sh
+help [[ expression ]]
