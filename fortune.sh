@@ -17,7 +17,7 @@ fi
 read QUESTION
 }
 
-  GET_FORTUNE
+GET_FORTUNE
 
 until [[ $QUESTION =~ \?$ ]]
 do
