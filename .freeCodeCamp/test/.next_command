@@ -514,3 +514,4 @@ chmod -e five.sh
 chmod --help
 chmod +x five.sh
 ./five.sh
+clear
